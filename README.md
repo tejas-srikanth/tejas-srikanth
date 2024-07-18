@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on optimization, ML, and low level development
 - 🌱 I’m currently learning how to implement swarm optimization
-- 💬 Ask me about anything tech related
+- 💬 Ask me about literally anything, I will probably yap forever
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once played a basketball game where I got -4 points and -1 assists
 
